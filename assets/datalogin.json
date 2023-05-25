@@ -1,0 +1,27 @@
+ [
+    {
+      "id": "1",
+      "username": "",
+      "firstname": "VuChiHung",
+      "password": "",
+      "numberOfPoints": "50",
+      "confidence": "0.2"
+    },
+    {
+      "id": "2",
+      "username": "1",
+      "firstname": "VuHung",
+      "password": "123",
+      "numberOfPoints": "10",
+      "confidence": "0.2"
+    },
+    {
+      "id": "3",
+      "username": "Hung@gmail.com",
+      "firstname":"Hung",
+      "password": "1234",
+      "numberOfPoints": "",
+      "confidence": ""
+    }
+ ]
+
